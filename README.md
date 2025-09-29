@@ -28,7 +28,7 @@ Siempre busco mejorar mis habilidades, colaborar en proyectos interesantes y apo
   </div>
 
   <div>
-    <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="200"/>
+    <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="500"/>
   </div>
 
 </div>
