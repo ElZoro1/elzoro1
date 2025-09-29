@@ -1,13 +1,13 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <div>
 
 # 👋 ¡Hola! Soy Cristian Ramírez  
 
 🎓 Ingeniero en Desarrollo de Sistemas en formación  
 💻 Apasionado por la programación, la tecnología y el aprendizaje constante  
 
-## 🚀 Tecnologías y herramientas:  
+## 🚀 Tecnologías y herramientas:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -25,9 +25,10 @@ Siempre busco mejorar mis habilidades, colaborar en proyectos interesantes y apo
 ## 📫 Conecta conmigo  
 - [LinkedIn](https://www.linkedin.com/in/cristian-ramirez-0159b525b/)  
 
-</td>
-<td>
-  <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="250" style="border-radius:10px;" />
-</td>
-  </tr>
-</table>
+  </div>
+
+  <div>
+    <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="200"/>
+  </div>
+
+</div>
