@@ -1,6 +1,6 @@
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td valign="top">
 
 # 👋 ¡Hola! Soy Cristian Ramírez  
 
@@ -26,7 +26,7 @@ Siempre busco mejorar mis habilidades, colaborar en proyectos interesantes y apo
 - [LinkedIn](https://www.linkedin.com/in/cristian-ramirez-0159b525b/)  
 
 </td>
-<td>
+<td valign="top">
   <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="250" style="border-radius:10px;" />
 </td>
   </tr>
