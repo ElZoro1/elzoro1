@@ -1,5 +1,6 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+  <!-- Bloque de texto -->
   <div>
 
 # 👋 ¡Hola! Soy Cristian Ramírez  
@@ -27,8 +28,9 @@ Siempre busco mejorar mis habilidades, colaborar en proyectos interesantes y apo
 
   </div>
 
+  <!-- Bloque de imagen -->
   <div>
-    <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="200"/>
+    <img src="https://mediolunatico.wordpress.com/wp-content/uploads/2014/07/edwardelric3.jpg" width="250" style="border-radius: 10px;" />
   </div>
 
 </div>
