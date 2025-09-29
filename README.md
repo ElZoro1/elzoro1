@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Cristian Ramírez  
 
 🎓 Ingeniero en Desarrollo de Sistemas en formación  
-💻 Apasionado por la programación, la tecnología y el aprendizaje constante  
+💻 Apasionado por la programación, la tecnología y el aprendizaje constante      <img width="620" height="465" alt="image" src="https://github.com/user-attachments/assets/cfd40e4c-9325-45ff-ac94-13a1f2a9744e" />
+
 
 ## 🚀 Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -21,3 +22,5 @@ Siempre busco mejorar mis habilidades, colaborar en proyectos interesantes y apo
 
 ## 📫 Conecta conmigo
 - LinkedIn: https://www.linkedin.com/in/cristian-ramirez-0159b525b/
+- ![Uploading image.png…]()
+
